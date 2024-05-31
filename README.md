@@ -1,167 +1,22 @@
-<h4 align="justify">
-👋 Hi there! I'm Shruti Shibu
-  
-Welcome to my GitHub profile!
-
-👀 I’m passionate about exploring a variety of interests including reading, dancing, drawing, and of course, coding! Each hobby fuels my creativity and curiosity, which I love bringing into my tech projects.
-
-🌱 Currently, I'm a BTech student specializing in Computer Science and Business Systems. My academic journey has equipped me with a strong foundation in both technical and business aspects, preparing me to tackle challenges from multiple angles.
-
-💞️ My career aspirations lie in the dynamic fields of fintech and data analysis. I'm fascinated by the potential of technology to revolutionize finance and unlock insights from data, driving smarter decisions and innovative solutions.
-
-😄 Pronouns: She/Her
-
-🚀 Here on GitHub, you'll find a collection of my projects, ranging from web development to data science experiments. I'm always eager to collaborate on interesting projects and learn from the vibrant community of developers.
-
-📚 When I'm not coding, you can find me diving into a good book, sketching out new ideas, or dancing to my favorite tunes. These activities not only help me relax but also inspire my coding adventures.
-
-Feel free to reach out if you want to collaborate or just chat about tech, books, or anything else! Let's connect and create something amazing together. 😊
-</h4>
-
-<br>
-<div>
-  <p align="left" style="margin: 0; text-align: left;">
-    <img src="https://komarev.com/ghpvc/?username=shrutishibu&label=Profile%20views&color=0e75b6&style=flat" alt="shrutishibu" />
-  </p>
-</div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutishibu&show_icons=true&locale=en&layout=compact" alt="shrutishibu" /></p>
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutishibu&show_icons=true&locale=en" alt="shrutishibu" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div>
-  <p align="center" style="margin: 0;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=shrutishibu&column=10&margin-w=15&margin-h=15&margin-top=0" alt="shrutishibu" width="1800px" height="200px"/>
-    </a>
-  </p>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://linkedin.com/in/shrutishibu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutishibu" height="25" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://instagram.com/shrutaetae" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutaetae" height="25" width="40" style="margin: 0 20px;" />
-  </a>
-  <a href="https://www.leetcode.com/shrutishibu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutishibu/" height="25" width="40" style="margin: 0 20px;" />
-  </a>
-</div>
+# 💫 About Me:
+👋 Hi there! I'm Shruti Shibu<br>Welcome to my GitHub profile!<br><br>👀 I’m passionate about exploring a variety of interests including reading, dancing, drawing, and of course, coding! Each hobby fuels my creativity and curiosity, which I love bringing into my tech projects.<br><br>🌱 Currently, I'm a BTech student specializing in Computer Science and Business Systems. My academic journey has equipped me with a strong foundation in both technical and business aspects, preparing me to tackle challenges from multiple angles.<br><br>💞️ My career aspirations lie in the dynamic fields of fintech and data analysis. I'm fascinated by the potential of technology to revolutionize finance and unlock insights from data, driving smarter decisions and innovative solutions.<br><br>😄 Pronouns: She/Her<br><br>🚀 Here on GitHub, you'll find a collection of my projects, ranging from web development to data science experiments. I'm always eager to collaborate on interesting projects and learn from the vibrant community of developers.<br><br>📚 When I'm not coding, you can find me diving into a good book, sketching out new ideas, or dancing to my favorite tunes. These activities not only help me relax but also inspire my coding adventures.<br><br>Feel free to reach out if you want to collaborate or just chat about tech, books, or anything else! Let's connect and create something amazing together. 😊
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrutaetae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrutishibu) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat-square&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shrutishibu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shrutishibu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishibu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shrutishibu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=shrutishibu&icon=7&color=10)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
