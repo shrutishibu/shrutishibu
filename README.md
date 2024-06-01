@@ -1,7 +1,7 @@
+![](https://komarev.com/ghpvc/?username=shrutishibu)
 
 # 💫 About Me:
 👋 Hi there! I'm Shruti Shibu<br>Welcome to my GitHub profile!<br><br>👀 I’m passionate about exploring a variety of interests including reading, dancing, drawing, and of course, coding! Each hobby fuels my creativity and curiosity, which I love bringing into my tech projects.<br><br>🌱 Currently, I'm a BTech student specializing in Computer Science and Business Systems. My academic journey has equipped me with a strong foundation in both technical and business aspects, preparing me to tackle challenges from multiple angles.<br><br>💞️ My career aspirations lie in the dynamic fields of fintech and data analysis. I'm fascinated by the potential of technology to revolutionize finance and unlock insights from data, driving smarter decisions and innovative solutions.<br><br>🚀 Here on GitHub, you'll find a collection of my projects, ranging from web development to data science experiments. I'm always eager to collaborate on interesting projects and learn from the vibrant community of developers.<br><br>📚 When I'm not coding, you can find me diving into a good book, sketching out new ideas, or dancing to my favorite tunes. These activities not only help me relax but also inspire my coding adventures.<br><br>Feel free to reach out if you want to collaborate or just chat about tech, books, or anything else! Let's connect and create something amazing together. 😊
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrutaetae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrutishibu) [![Gmail](https://img.shields.io/badge/-Gmail-%23F2A60C?logo=gmail&logoColor=white)](mailto:sshrutishibu@gmail.com)
@@ -17,9 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrutishibu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=shrutishibu&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ---
 [![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutishibu&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
