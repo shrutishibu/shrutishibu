@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=shrutishibu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutishibu&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
